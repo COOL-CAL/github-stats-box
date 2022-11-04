@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://gist.github.com/bokub/1cc900d92b9acc15786d7553b46a2cdf">
+  <a href="https://gist.github.com/COOL-CAL/c8d22a38ef593cebea00ba6f54c4444a">
     <img src="https://raw.githubusercontent.com/bokub/github-stats-box/images/screenshot.png">
   </a>
   <h3 align="center">github-stats-box</h3>
